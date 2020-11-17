@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "name": "Text Highlight",
+    "description": "My Chrome Extension",
+    "content_scripts": [{
+        "matches": ["http://*/*", "https://*/*"],
+        "js": ["main.js"]
+    }]
+}
