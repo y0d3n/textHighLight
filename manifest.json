@@ -1,6 +1,6 @@
 {
+    "manifest_version": 3,
     "version": "1.0.0",
-    "manifest_version": 2,
     "name": "Text Highlight",
     "description": "Chromeでテキストを強調・編集するための拡張機能。スクリーンショット時の目隠しなどに。",
     "content_scripts": [{
